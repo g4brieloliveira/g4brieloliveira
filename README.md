@@ -17,8 +17,7 @@ justify-content: center;
   margin-left: 0.5rem;
   ">
 </div>
-
-<p>Meu nome é Gabriel Oliveira, tenho 18 anos e sou estudante de Técnico em Informática pelo IFMG - Campus Ribeirão das Neves.</p>
+<p><br>Meu nome é Gabriel Oliveira, tenho 18 anos e sou estudante de Técnico em Informática pelo IFMG - Campus Ribeirão das Neves.</p>
 
 <p>Atualmente estou estudando o que posso sobre Desenvolvimento Web (focando na stack JS) principalmente que envolvam o universo do React. <br>
 
