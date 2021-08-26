@@ -13,9 +13,8 @@
   margin-left: 0.5rem;
   ">
 </p>
-
-**Quem sou eu:** 
-<p>Olá, meu nome é Gabriel, tenho 18 anos e sou de Belo Horizonte - MG.
+<p align="center"><strong>Quem sou eu?</strong></p>
+<p>Meu nome é Gabriel, tenho 18 anos e sou de Belo Horizonte - MG.
 Estou no Terceiro Ano do Ensino Médio juntamente com Técnico em Informática no IFMG e atualmente estou em busca de uma vaga de estágio para iniciar minha carreira.
 
 Desde pequeno me interesso pelo mundo da informática e desde os 15 anos aprendo coisas novas na área. Comecei a estudar Python através do YouTube em 2018 e também participei de cursos de extensão no CEFET-MG.
@@ -24,15 +23,85 @@ Em 2019 entrei no IFMG para cursar o que eu já havia começado a estudar sozinh
 <p>Atualmente estou estudando através de cursos da <a href="https://zerotomastery.io/">Zero to Mastery Academy</a> o desenvolvimento de aplicações Web e Mobile utilizando ReactJS e React Native.
 <br><br>
 
-**Linguagens que mais utilizo:**  
-<p align="space-evenly">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="ReactJS" width="40" height="40"/> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" alt="TypeScript" width="40" height="40" />
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" alt="python" width="40" height="40"/>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="40" height="40"/>
+<p align="center"><strong>Linguagens que mais utilizo: </strong></p>
+<p align="center">
+  <img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" 
+  alt="HTML5" 
+  width="40" 
+  height="40"
+  style="
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  "/> 
+  <img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" 
+  alt="CSS3" 
+  width="40" 
+  height="40"
+  style="
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  "/>
+  <img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" 
+  alt="JavaScript" 
+  width="40" 
+  height="40"
+  style="
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  "/> 
+  <img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" 
+  alt="ReactJS" 
+  width="40" 
+  height="40"
+  style="
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  "/> 
+  <img 
+  src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" 
+  alt="TypeScript" 
+  width="40" 
+  height="40"
+  style="
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  " />
+  <img 
+  src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" 
+  alt="python" 
+  width="40" 
+  height="40"
+  style="
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  "/>
+  <img 
+  src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg" 
+  alt="NodeJS" 
+  width="40" 
+  height="40"
+  style="
+  width: 2.5rem;
+  height: 2.5rem;
+  margin-right: 0.5rem;
+  margin-left: 0.5rem;
+  "/>
 </p> 
 </p>
 
