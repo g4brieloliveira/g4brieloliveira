@@ -1,8 +1,4 @@
-<div style="
-display: flex;
-align-items: center;
-justify-content: center;
-">
+<p align="center">
   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" 
   style="
   width: 2rem;
@@ -16,7 +12,7 @@ justify-content: center;
   height: 2rem;
   margin-left: 0.5rem;
   ">
-</div>
+</p>
 
 **Quem sou eu:** 
 <p>Olá, meu nome é Gabriel, tenho 18 anos e sou de Belo Horizonte - MG.
@@ -25,7 +21,7 @@ Estou no Terceiro Ano do Ensino Médio juntamente com Técnico em Informática n
 Desde pequeno me interesso pelo mundo da informática e desde os 15 anos aprendo coisas novas na área. Comecei a estudar Python através do YouTube em 2018 e também participei de cursos de extensão no CEFET-MG.
 Em 2019 entrei no IFMG para cursar o que eu já havia começado a estudar sozinho, ainda no primeiro ano aprendi VisualG, Portugol e Python na escola, durante meu segundo ano(2020) avançamos com mais matérias em que continuei o aprendizado de Python para Algoritmos II e vi também outras tecnologias como HTML, CSS, JavaScript, PHP e MySQL. No terceiro ano(2021) passei a utilizar Django e Kotlin mas também continuei com tecnologias anteriores como Python, PHP e MySQL.</p>
 
-<p>Atualmente estou estudando através de cursos da <a href="https://zerotomastery.io/">Zero to Mastery Academy</a> sobre Desenvolvimento Web, focando na stack JS.
+<p>Atualmente estou estudando através de cursos da <a href="https://zerotomastery.io/">Zero to Mastery Academy</a> o desenvolvimento de aplicações Web e Mobile utilizando ReactJS e React Native.
 <br><br>
 
 **Linguagens que mais utilizo:**  
