@@ -116,7 +116,7 @@ justify-content: space-evenly;
   <a align="center" width="20%" href="https://www.instagram.com/gabreuolv_"><img src="https://camo.githubusercontent.com/97fe2ab26abb308cc4867c98c87cd5b72451891fae18e8f437fdeecc557e6f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d336637323962266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f7765766572746f6e2e6d6174612f" alt="Instagram"></a>
   <a align="right" width="20%" href="https://g4brieloliveira.vercel.app/"><img src="https://img.shields.io/badge/-Curriculo-blue?style=flat-square&logo=appveyor"/></a>
 </p>
-
+ 
 <p>
   <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brieloliveira&layout=compact&theme=dark" alt="Gabriel Oliveira" />
 </p>
