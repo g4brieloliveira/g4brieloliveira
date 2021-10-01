@@ -32,7 +32,7 @@
   Em 2021 no meu terceiro ano passei a utilizar Django e Kotlin mas também continuei com tecnologias anteriores como Python, PHP e MySQL.</br>
   <p>Atualmente estudo por conta própria através de cursos da <a href="https://zerotomastery.io/">Zero to Mastery Academy</a> o desenvolvimento de aplicações Mobile utilizando React Native e iniciei o módulo de React do <a href="https://www.rocketseat.com.br/ignite">Ignite</a>, que é um bootcamp oferecido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.</p>
 </div>
-
+ 
 </br>
 
 <div>
