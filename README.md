@@ -49,7 +49,7 @@
   ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=7159c1)
   ![Node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=7159c1)
   </br></br>
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brieloliveira&layout=compact&theme=dark&show_icons=true&hide_border=true&title_color=7159c1&" alt="Gabriel Oliveira" />
+  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brieloliveira&layout=compact&theme=dark&show_icons=true&hide_border=true&title_color=7159c1&" alt="Gabriel Oliveira" />
   </div>
 <div>
 
