@@ -26,7 +26,7 @@
 
 <div>
   <h2 align="center"><strong>Minha trajetória </strong></h2>
-  Desde pequeno me interesso pelo mundo da informática e desde os 15 anos aprendo coisas novas na área. Comecei a estudar Python através do YouTube em 2018 e também participei de cursos de extensão no CEFET-MG.
+  Desde pequeno me interesso pelo mundo da informática e desde os 15 anos aprendo coisas novas na área. Comecei a estudar Python através do YouTube em 2018 e também participei de cursos de extensão no CEFET-MG.</br>
   Em 2019 entrei para o IFMG para cursar o Ensino Médio juntamente com Técnico em Informática, ainda no primeiro ano aprendi VisualG, Portugol e Python.</br> 
   Em 2020, já no meu segundo ano utilizamos Python para Algoritmos II e vi também outras tecnologias como HTML, CSS, JavaScript, PHP e MySQL. Foi nesse contato com o basico de desenvilvimento para Web que me apaixonei pela área e desde então sigo estudando a mesma.</br>
   Em 2021 no meu terceiro ano passei a utilizar Django e Kotlin mas também continuei com tecnologias anteriores como Python, PHP e MySQL.</br>
