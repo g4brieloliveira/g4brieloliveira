@@ -14,8 +14,6 @@
   ">
 </h3>
 
-</br>
-
 <div>
   <h3 align="center"><strong>Quem sou eu?</strong></h3>
   Meu nome é Gabriel Augusto de Oliveira, tenho 19 anos e sou de Belo Horizonte - MG.
