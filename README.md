@@ -1,4 +1,4 @@
-<h2 align="center">
+<h3 align="center">
   <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" 
   style="
   width: 20px;
@@ -12,12 +12,12 @@
   height: 20px;
   margin-left: 5px;
   ">
-</h2>
+</h3>
 
 </br>
 
 <div>
-  <h2 align="center"><strong>Quem sou eu?</strong></h2>
+  <h3 align="center"><strong>Quem sou eu?</strong></h3>
   Meu nome é Gabriel Augusto de Oliveira, tenho 19 anos e sou de Belo Horizonte - MG.
   Estou no Terceiro Ano do Ensino Médio juntamente com Técnico em Informática no IFMG e atualmente estou em busca de uma vaga de estágio para iniciar minha carreira.
 </div>
@@ -25,7 +25,7 @@
 </br>
 
 <div>
-  <h2 align="center"><strong>Minha trajetória </strong></h2>
+  <h3 align="center"><strong>Minha trajetória </strong></h3>
   Desde pequeno me interesso pelo mundo da informática e desde os 15 anos aprendo coisas novas na área. Comecei a estudar Python através do YouTube em 2018 e também participei de cursos de extensão no CEFET-MG.</br>
   Em 2019 entrei para o IFMG para cursar o Ensino Médio juntamente com Técnico em Informática, ainda no primeiro ano aprendi VisualG, Portugol e Python.</br> 
   Em 2020, já no meu segundo ano utilizamos Python para Algoritmos II e vi também outras tecnologias como HTML, CSS, JavaScript, PHP e MySQL. Foi nesse contato com o basico de desenvilvimento para Web que me apaixonei pela área e desde então sigo estudando a mesma.</br>
@@ -36,7 +36,7 @@
 </br>
 
 <div>
-  <h2 align="center"><strong>Linguagens e tecnologias que mais utilizo: </strong></h2>
+  <h3 align="center"><strong>Linguagens e tecnologias que mais utilizo: </strong></h3>
   <div align="center">
 
   ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=7159c1)
@@ -56,7 +56,7 @@
 </br>
 
 <div>
-  <h2 align="center"><strong>Onde me encontrar: </strong></h2>
+  <h3 align="center"><strong>Onde me encontrar: </strong></h3>
   <div align="center">
 
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-7159c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g4brieloliveira/)](https://www.linkedin.com/in/g4brieloliveira/)
