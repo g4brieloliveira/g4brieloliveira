@@ -32,7 +32,7 @@
   Em 2021 no meu terceiro ano passei a utilizar Django e Kotlin mas também continuei com tecnologias anteriores como Python, PHP e MySQL.</br>
   <p>Atualmente estudo por conta própria através de cursos da <a href="https://zerotomastery.io/">Zero to Mastery Academy</a> o desenvolvimento de aplicações Mobile utilizando React Native e iniciei o módulo de React do <a href="https://www.rocketseat.com.br/ignite">Ignite</a>, que é um bootcamp oferecido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.</p>
 </div>
- 
+
 </br>
 
 <div>
@@ -54,7 +54,6 @@
 
 </br>
 
-<<<<<<< HEAD
 <div>
   <h2 align="center"><strong>Onde me encontrar: </strong></h2>
   <div align="center">
@@ -65,21 +64,3 @@
   [![Github](https://img.shields.io/badge/-Github-7159c1?style=flat-square&labelColor=7159c1&logo=github&logoColor=white&link=https://github.com/g4brieloliveira)](https://github.com/g4brieloliveira)
   </div>
 <div>
-=======
-<p align="center" style="
-display: flex;
-align-items: center;
-justify-content: space-evenly;
-">
-	<a align="left" width="20%" href="https://www.linkedin.com/in/g4brieloliveira"><img src="https://camo.githubusercontent.com/6e057131bdb1008966629f26a019e818a7f12cc7e9adfb92f0b6ba98098d4dfa/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666c61742d737175617265266c6f676f3d4c696e6b6564696e266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e6c696e6b6564696e2e636f6d2f696e2f7765766572746f6e2d6d6174612d3333343530383162312f" alt="LinkedIn"></a>
-  <a align="center" width="20%" href="https://www.instagram.com/gabreuolv_"><img src="https://camo.githubusercontent.com/97fe2ab26abb308cc4867c98c87cd5b72451891fae18e8f437fdeecc557e6f40/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d496e7374616772616d2d3163613066313f7374796c653d666c61742d737175617265266c6162656c436f6c6f723d336637323962266c6f676f3d696e7374616772616d266c6f676f436f6c6f723d7768697465266c696e6b3d68747470733a2f2f7777772e696e7374616772616d2e636f6d2f7765766572746f6e2e6d6174612f" alt="Instagram"></a>
-  <a align="right" width="20%" href="https://g4brieloliveira.vercel.app/"><img src="https://img.shields.io/badge/-Curriculo-blue?style=flat-square&logo=appveyor"/></a>
-</p>
- 
-<p>
-  <img align="left" width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brieloliveira&layout=compact&theme=dark" alt="Gabriel Oliveira" />
-</p>
-<p>&nbsp;
-  <img align="right" width="50%" src="https://github-readme-stats.vercel.app/api?username=g4brieloliveira&show_icons=true&theme=dark" alt="Gabriel Oliveira" />
-</p>
->>>>>>> 48fc9e258081b4fe87a5b5a37ec2441f6e03a6f2
