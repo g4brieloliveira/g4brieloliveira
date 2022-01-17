@@ -17,7 +17,7 @@
 <div>
   <h3 align="center"><strong>Quem sou eu?</strong></h3>
   Meu nome é Gabriel Augusto de Oliveira, tenho 19 anos e sou de Belo Horizonte - MG.
-  Estou no Terceiro Ano do Ensino Médio juntamente com Técnico em Informática no IFMG e atualmente estou em busca de uma vaga de estágio para iniciar minha carreira.
+  No ano de 2021 me formei no curso de Técnico em Informática integrado ao Ensino Médio no IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais) - Campus Ribeirão das Neves.carreira.
 </div>
 
 </br>
@@ -28,9 +28,8 @@
   Em 2019 entrei para o IFMG para cursar o Ensino Médio juntamente com Técnico em Informática, ainda no primeiro ano aprendi VisualG, Portugol e Python.</br> 
   Em 2020, já no meu segundo ano utilizamos Python para Algoritmos II e vi também outras tecnologias como HTML, CSS, JavaScript, PHP e MySQL. Foi nesse contato com o basico de desenvilvimento para Web que me apaixonei pela área e desde então sigo estudando a mesma.</br>
   Em 2021 no meu terceiro ano passei a utilizar Django e Kotlin mas também continuei com tecnologias anteriores como Python, PHP e MySQL.</br>
-  <p>Atualmente estudo por conta própria através de cursos da <a href="https://zerotomastery.io/">Zero to Mastery Academy</a> o desenvolvimento de aplicações Mobile utilizando React Native e iniciei o módulo de React do <a href="https://www.rocketseat.com.br/ignite">Ignite</a>, que é um bootcamp oferecido pela <a href="https://www.rocketseat.com.br/">Rocketseat</a>.</p>
+  <p>Faço parte da comunidade de estudantes da <a href="https://www.rocketseat.com.br/">Rocketseat</a> e <a href="https://zerotomastery.io/">Zero to Mastery Academy</a> no qual venho me desenvolvendo em React Native, sendo essa a tecnologia que atualmente utilizo como Desenvolvedor Mobile Junior, juntamente com Typescript e Styled Components.</p>
 </div>
-
 </br>
 
 <div>
