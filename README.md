@@ -1,64 +1,54 @@
-<h3 align="center">
-  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" 
-  style="
-  width: 20px;
-  height: 20px;
-  margin-right: 5px;
-  ">
-  <strong>Seja bem vindo(a)</strong>
-  <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30px" 
-  style="
-  width: 20px;
-  height: 20px;
-  margin-left: 5px;
-  ">
-</h3>
+<h1 align="center">Ola, seja bem vindo(a) <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" /></h1>
+
+<img align="right" width="40%" src="./gif.gif" alt="Furia HEN1 dancing" />
+
+### Uma frase que me define: <b>Veni, Vidi, Vici</b>
+
+<p>Meu nome é Gabriel Oliveira, tenho 19 anos e sou de Belo Horizonte - MG.</p>
+</p>
+
+<br/>
+
+### Mais sobre mim
+
+- 👩🏻‍💻 Atualmente trabalhando como Desenvolvedor Mobile;
+
+- 👩🏻‍💻 Meu objetivo esta sendo melhorar minhas skills em React Native;
+
+- 💬 Amo ajudar as pessoas, pode chegar mais;
+
+- 🏆 Ganhei um campeonato de CS 1.6 em 2019;
+
+- 🏆 O topico acima foi so pra falar que gosto de games mesmo kkkk
+
+### Onde me encontrar:
+
+<a href="https://www.linkedin.com/in/g4brieloliveira/">
+  <code><img alt="Meu linkedin" width="28" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" /></code>
+</a>
+
+<a href="mailto:g4brieloliveira.dev@gmail.com">
+  <code><img alt="Meu e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/324/324123.png" /></code>
+</a>
+
+<br/><br/>
+
+## Minha stack de desenvolvimento
+
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
+<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+
+<br/>
+
+## Estatisticas do Github e Linguagens
+
+<br/>
 
 <div>
-  <h3 align="center"><strong>Quem sou eu?</strong></h3>
-  Meu nome é Gabriel Augusto de Oliveira, tenho 19 anos e sou de Belo Horizonte - MG.
-  No ano de 2021 me formei no curso de Técnico em Informática integrado ao Ensino Médio no IFMG (Instituto Federal de Educação, Ciência e Tecnologia de Minas Gerais) - Campus Ribeirão das Neves.carreira.
+  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=g4brieloliveira&show_icons=true&theme=dracula" alt="g4brieloliveira's github stats" />
+  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brieloliveira&layout=compact&theme=dark&show_icons=true&hide_border=true&title_color=7159c1&" alt="Gabriel Oliveira" />
 </div>
-
-</br>
-
-<div>
-  <h3 align="center"><strong>Minha trajetória </strong></h3>
-  Desde pequeno me interesso pelo mundo da informática e desde os 15 anos aprendo coisas novas na área. Comecei a estudar Python através do YouTube em 2018 e também participei de cursos de extensão no CEFET-MG.</br>
-  Em 2019 entrei para o IFMG para cursar o Ensino Médio juntamente com Técnico em Informática, ainda no primeiro ano aprendi VisualG, Portugol e Python.</br> 
-  Em 2020, já no meu segundo ano utilizamos Python para Algoritmos II e vi também outras tecnologias como HTML, CSS, JavaScript, PHP e MySQL. Foi nesse contato com o basico de desenvilvimento para Web que me apaixonei pela área e desde então sigo estudando a mesma.</br>
-  Em 2021 no meu terceiro ano passei a utilizar Django e Kotlin mas também continuei com tecnologias anteriores como Python, PHP e MySQL.</br>
-  <p>Faço parte da comunidade de estudantes da <a href="https://www.rocketseat.com.br/">Rocketseat</a> e <a href="https://zerotomastery.io/">Zero to Mastery Academy</a> no qual venho me desenvolvendo em React Native, sendo essa a tecnologia que atualmente utilizo como Desenvolvedor Mobile Junior, juntamente com Typescript e Styled Components.</p>
-</div>
-</br>
-
-<div>
-  <h3 align="center"><strong>Linguagens e tecnologias que mais utilizo: </strong></h3>
-  <div align="center">
-
-  ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=7159c1)
-  ![CSS3](https://img.shields.io/badge/css%203-grey?style=for-the-badge&logo=css3&logoColor=white&labelColor=7159c1)
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-grey?style=for-the-badge&logo=javascript&logoColor=white&labelColor=7159c1)
-  ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript&logoColor=white&labelColor=7159c1)
-  ![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
-  ![React Native](https://img.shields.io/badge/react%20native-grey?style=for-the-badge&logo=react&logoColor=white&labelColor=7159c1)
-  ![Styled Components](https://img.shields.io/badge/styled%20components-grey?style=for-the-badge&logo=styled-components&logoColor=white&labelColor=7159c1)
-  ![Python](https://img.shields.io/badge/-Python-grey?style=for-the-badge&logo=python&logoColor=white&labelColor=7159c1)
-  ![Node](https://img.shields.io/badge/-node-grey?style=for-the-badge&logo=node.js&logoColor=white&labelColor=7159c1)
-  </br></br>
-  <img width="65%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brieloliveira&layout=compact&theme=dark&show_icons=true&hide_border=true&title_color=7159c1&" alt="Gabriel Oliveira" />
-  </div>
-<div>
-
-</br>
-
-<div>
-  <h3 align="center"><strong>Onde me encontrar: </strong></h3>
-  <div align="center">
-
-  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-7159c1?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/g4brieloliveira/)](https://www.linkedin.com/in/g4brieloliveira/)
-  [![Instagram Badge](https://img.shields.io/badge/-Instagram-7159c1?style=flat-square&labelColor=7159c1&logo=instagram&logoColor=white&link=https://www.instagram.com/gabreuolv_)](https://www.instagram.com/gabreuolv_)
-  [![React](https://img.shields.io/badge/-Meu%20Currículo-7159c1?style=flat-square&labelColor=7159c1&logo=React&logoColor=white&link=https://g4brieloliveira.vercel.app)](https://g4brieloliveira.vercel.app)
-  [![Github](https://img.shields.io/badge/-Github-7159c1?style=flat-square&labelColor=7159c1&logo=github&logoColor=white&link=https://github.com/g4brieloliveira)](https://github.com/g4brieloliveira)
-  </div>
-<div>
