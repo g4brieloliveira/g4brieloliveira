@@ -4,7 +4,7 @@
 
 ### Uma frase que me define: <b>Veni, Vidi, Vici</b>
 
-<p>Meu nome é Gabriel Oliveira, tenho 19 anos e sou de Belo Horizonte - MG.</p>
+<p>Meu nome é Gabriel Oliveira, tenho 20 anos e sou de Belo Horizonte - MG.</p>
 </p>
 
 <br/>
