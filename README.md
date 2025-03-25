@@ -1,8 +1,6 @@
 <h1 align="center">Ola, seja bem vindo(a) <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" /></h1>
 
-### Uma frase que me define: <b>Veni, Vidi, Vici</b>
-
-<p>Meu nome é Gabriel Oliveira, tenho 21 anos e sou de Belo Horizonte - MG.</p>
+<p>Meu nome é Gabriel Oliveira, tenho 22 anos e sou de Belo Horizonte - MG.</p>
 </p>
 
 <br/>
