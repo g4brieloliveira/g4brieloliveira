@@ -2,11 +2,11 @@
 
 **Mobile Software Engineer | React Native · TypeScript · React**
 
-[![EN](https://img.shields.io/badge/EN-English-0969DA?style=for-the-badge)](https://github.com/g4brieloliveira) [![PT](https://img.shields.io/badge/PT-Portugu%C3%AAs-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md) [![ES](https://img.shields.io/badge/ES-Espa%C3%B1ol-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
+[🇺🇸 ![English](https://img.shields.io/badge/English-0969DA?style=for-the-badge)](https://github.com/g4brieloliveira) [🇧🇷 ![Português](https://img.shields.io/badge/Portugu%C3%AAs-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md) [🇪🇸 ![Español](https://img.shields.io/badge/Espa%C3%B1ol-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
 
 I'm a software engineer with **5+ years of professional experience**, primarily building mobile applications with React Native. I've worked on banking and financial products, modernized legacy applications, and helped design maintainable frontend architectures and reusable component systems.
 
-- 📍 Based in Brazil · **Relocation to Spain planned for February 2027**
+- 📍 Based in Brazil
 - 💼 Open to **remote Mobile / React Native** roles, as well as React web and cross-platform frontend opportunities
 - 🔗 [LinkedIn](https://www.linkedin.com/in/g4brieloliveira/) · [Email](mailto:g4brieloliveira.dev@gmail.com)
 
