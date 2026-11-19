@@ -1,38 +1,47 @@
-<h1 align="center">Ola, seja bem vindo(a) <img width="30" src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" alt="Sunglasses emoji" /></h1>
+# Gabriel Oliveira
 
-<p>Meu nome é Gabriel Oliveira, tenho 24 anos e sou de Belo Horizonte - MG.</p>
-</p>
+**Mobile Software Engineer | React Native · TypeScript · React**
 
-<br/>
+[![EN](https://img.shields.io/badge/EN-English-0969DA?style=for-the-badge)](https://github.com/g4brieloliveira) [![PT](https://img.shields.io/badge/PT-Portugu%C3%AAs-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md) [![ES](https://img.shields.io/badge/ES-Espa%C3%B1ol-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
 
-### Onde me encontrar:
+I'm a software engineer with **5+ years of professional experience**, primarily building mobile applications with React Native. I've worked on banking and financial products, modernized legacy applications, and helped design maintainable frontend architectures and reusable component systems.
 
-<a href="https://www.linkedin.com/in/g4brieloliveira/">
-  <code><img alt="Meu linkedin" width="28" src="https://cdn-icons-png.flaticon.com/512/1383/1383262.png" /></code>
-</a>
+- 📍 Based in Brazil · **Relocation to Spain planned for February 2027**
+- 💼 Open to **remote Mobile / React Native** roles, as well as React web and cross-platform frontend opportunities
+- 🔗 [LinkedIn](https://www.linkedin.com/in/g4brieloliveira/) · [Email](mailto:g4brieloliveira.dev@gmail.com)
 
-<a href="mailto:g4brieloliveira.dev@gmail.com">
-  <code><img alt="Meu e-mail" width="32" src="https://cdn-icons-png.flaticon.com/512/324/324123.png" /></code>
-</a>
+## What I work with
 
-<br/><br/>
+| Focus | Technologies and practices |
+| --- | --- |
+| **Mobile** | React Native, Expo, TypeScript, JavaScript |
+| **Web** | React, Vite |
+| **Data & state** | TanStack Query, Zustand, Redux Toolkit, React Hook Form, REST APIs |
+| **UI & architecture** | Styled Components, Storybook, Design Systems, component libraries, modular architecture |
+| **Delivery & tools** | Git, CI/CD, Bitrise, Cursor, Jira |
 
-## Minha stack de desenvolvimento
+## Professional highlights
 
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="Javascript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" alt="Typescript"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" alt="Nodejs"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="HTML5"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="CSS"/></code>
-<code><img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="React"/></code>
+**MB Labs · Frontend Engineer (2025–2026)**  
+- Helped build a new **React + TypeScript** portal for Brazil's Pix **MED and DICT** workflows, defining frontend architecture and a component library. The portal went live in October 2026.
+- Developed financial transaction and authentication flows for a **white-label banking platform** using React Native and React, including Pix, TED, P2P, limits, TOTP and Face ID.
+- Contributed to a major React Native upgrade and established AI-assisted development workflows with Cursor.
 
-<br/>
+**Softruck · Mobile Engineer (2024–2025)**  
+- Independently modernized legacy React Native applications, including a **JavaScript-to-TypeScript migration** and framework upgrades.
+- Built a shared component library and **Design System** for two mobile applications using React Native, Expo, Styled Components, Storybook and React Native Builder Bob.
+- Improved existing Bitrise CI/CD workflows for testing, builds and app-store releases.
 
-## Estatisticas do Github e Linguagens
+**QESH · Mobile Developer (2023–2024)**  
+- Developed React Native features for white-label banking apps, covering account management, Pix, bill payments, P2P transfers and cards.
+- Contributed to API integrations and incremental TypeScript migration.
 
-<br/>
+**MaisTODOS · Mobile Developer (2021–2023)**  
+- Contributed to an application serving **1M+ users** and later to a new mobile banking product for individual and business customers.
+- Built banking features and worked on gradual JavaScript-to-TypeScript improvements.
 
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api?username=g4brieloliveira&show_icons=true&theme=dracula" alt="g4brieloliveira's github stats" />
-  <img width="40%" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=g4brieloliveira&layout=compact&theme=dark&show_icons=true&hide_border=true&title_color=7159c1&" alt="Gabriel Oliveira" />
-</div>
+## Beyond the public repositories
+
+Most of my recent professional work lives in **private company repositories**. I'm updating my public projects to better reflect my current engineering experience.
+
+**Let's connect:** [LinkedIn](https://www.linkedin.com/in/g4brieloliveira/) · [Email](mailto:g4brieloliveira.dev@gmail.com)
