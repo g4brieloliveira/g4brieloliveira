@@ -2,7 +2,7 @@
 
 **Ingeniero de Software Móvil | React Native · TypeScript · React**
 
-[![EN](https://img.shields.io/badge/EN-English-555555?style=for-the-badge)](https://github.com/g4brieloliveira) [![PT](https://img.shields.io/badge/PT-Portugu%C3%AAs-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md) [![ES](https://img.shields.io/badge/ES-Espa%C3%B1ol-0969DA?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
+[🇺🇸 ![English](https://img.shields.io/badge/English-555555?style=for-the-badge)](https://github.com/g4brieloliveira) [🇧🇷 ![Português](https://img.shields.io/badge/Portugu%C3%AAs-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md) [🇪🇸 ![Español](https://img.shields.io/badge/Espa%C3%B1ol-0969DA?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
 
 Soy ingeniero de software con **más de 5 años de experiencia profesional**, especializado principalmente en el desarrollo de aplicaciones móviles con React Native. He trabajado en productos bancarios y financieros, modernización de aplicaciones legacy, arquitectura frontend y bibliotecas de componentes reutilizables.
 
