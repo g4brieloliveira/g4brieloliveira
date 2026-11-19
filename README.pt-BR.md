@@ -2,11 +2,11 @@
 
 **Engenheiro de Software Mobile | React Native · TypeScript · React**
 
-[![EN](https://img.shields.io/badge/EN-English-555555?style=for-the-badge)](https://github.com/g4brieloliveira) [![PT](https://img.shields.io/badge/PT-Portugu%C3%AAs-0969DA?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md) [![ES](https://img.shields.io/badge/ES-Espa%C3%B1ol-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
+[🇺🇸 ![English](https://img.shields.io/badge/English-555555?style=for-the-badge)](https://github.com/g4brieloliveira) [🇧🇷 ![Português](https://img.shields.io/badge/Portugu%C3%AAs-0969DA?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md) [🇪🇸 ![Español](https://img.shields.io/badge/Espa%C3%B1ol-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
 
 Sou engenheiro de software com **mais de 5 anos de experiência profissional**, com foco principal no desenvolvimento de aplicações mobile com React Native. Atuei em produtos bancários e financeiros, modernização de aplicações legadas, arquitetura frontend e criação de bibliotecas de componentes reutilizáveis.
 
-- 📍 No Brasil · **Mudança planejada para a Espanha em fevereiro de 2027**
+- 📍 No Brasil
 - 💼 Aberto a oportunidades **remotas em Mobile / React Native**, além de React Web e posições que combinem frontend e mobile
 - 🔗 [LinkedIn](https://www.linkedin.com/in/g4brieloliveira/) · [E-mail](mailto:g4brieloliveira.dev@gmail.com)
 
