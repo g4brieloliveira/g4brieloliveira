@@ -2,7 +2,7 @@
 
 **Mobile Software Engineer | React Native · TypeScript · React**
 
-[🇺🇸 ![English](https://img.shields.io/badge/English-0969DA?style=for-the-badge)](https://github.com/g4brieloliveira) [🇧🇷 ![Português](https://img.shields.io/badge/Portugu%C3%AAs-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md) [🇪🇸 ![Español](https://img.shields.io/badge/Espa%C3%B1ol-555555?style=for-the-badge)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
+[![🇺🇸 English](assets/languages/en-active.svg)](https://github.com/g4brieloliveira)  [![🇧🇷 Português](assets/languages/pt-default.svg)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.pt-BR.md)  [![🇪🇸 Español](assets/languages/es-default.svg)](https://github.com/g4brieloliveira/g4brieloliveira/blob/main/README.es.md)
 
 I'm a software engineer with **5+ years of professional experience**, primarily building mobile applications with React Native. I've worked on banking and financial products, modernized legacy applications, and helped design maintainable frontend architectures and reusable component systems.
 
