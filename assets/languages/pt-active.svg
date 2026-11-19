@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="174" height="44" viewBox="0 0 174 44" role="img" aria-label="Português">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#1476DB"/><stop offset="1" stop-color="#0757bd"/></linearGradient>
+ <clipPath id="flag-clip"><rect x="14" y="12" width="29" height="20" rx="3"/></clipPath>
+</defs>
+<rect x="1" y="1" width="172" height="42" rx="21" fill="url(#bg)" stroke="#7bb3ff" stroke-width="1.4"/>
+<path d="M 22 2 H 152" fill="none" stroke="#ffffff" stroke-opacity="0.19" stroke-width="1.15"/>
+<g clip-path="url(#flag-clip)"><rect x="14" y="12" width="29" height="20" fill="#229E45"/>
+<path d="M 28.5 14.1 L 40 22 L 28.5 29.9 L 17 22 Z" fill="#F8D447"/>
+<circle cx="28.5" cy="22" r="5.7" fill="#21468B"/>
+<path d="M 23.7 20.6 Q 29.1 19.9 34.3 25" fill="none" stroke="#ffffff" stroke-width="1.2"/></g><rect x="14.45" y="12.45" width="28.1" height="19.1" rx="2.6" fill="none" stroke="#ffffff" stroke-opacity="0.36" stroke-width="0.9"/>
+<text x="53" y="28" fill="#ffffff" font-size="15.5" font-family="Arial, Helvetica, sans-serif" font-weight="700" letter-spacing="0.15">Português</text>
+</svg>
